@@ -19,7 +19,7 @@ const Table = ({loadData, data}) => {
              <thead className='mb-4'>
                <tr>
                  <th>Number</th>
-                 <th>Random Identifier</th>
+                 <th>ID</th>
                  <th>Full Name</th>
                  <th>Address</th>
                  <th>Phone Number</th>

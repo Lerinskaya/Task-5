@@ -52,7 +52,7 @@ const TablePage = () => {
   };
 
   return (
-    <div>
+    <div className='w-80'>
       <div className='mb-3'>
         <SelectRegion region={region} handleRegionChange={handleRegionChange} />
       </div>
